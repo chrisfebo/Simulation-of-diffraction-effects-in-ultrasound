@@ -10,5 +10,6 @@ and acoustic intensity.
 The cases set up as examples simulate diffraction through a small slit in a wall-like geometry. This is a standard example for diffraction which can be difficult to model especially when the slit width approaches the size of the wavelength.
 Two cases are simulated, one in which the slit is larger, the second with a width comparable to the wavelength in which a more tricky to model behaviour of the waves comes into play. The result is analyzed on a 2-dimensional plane.
 
-![](images/diff_im0.eps)
+![](images/diff_im0.png)
 
+![](images/diff_im1.png)
